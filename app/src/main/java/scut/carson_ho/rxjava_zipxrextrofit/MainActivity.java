@@ -17,8 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class MainActivity extends AppCompatActivity {
 
 
-        private static final String TAG = "Rxjava";
-
+        private static final String TAG = "RxJava";
 
         // 定义Observable接口类型的网络请求对象
         Observable<Translation1> observable1;
